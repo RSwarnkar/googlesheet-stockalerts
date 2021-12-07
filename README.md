@@ -3,7 +3,7 @@ Get email alert on Stock Prices using Google App Script and Google Sheets
 
 ## What is this repo about?
 Do you follow [Stock Market](https://www.nseindia.com/) and like to receive email alert when your portfolio stock reaches a low or hits a high? 
-Use this repo to setup a google sheet and google script to schedule a 
+Use this repo to setup a google sheet and google script to schedule a trigger daily. 
 
 ## Create a Google Sheet
 1. Create a new Google Sheet with the list of stocks
